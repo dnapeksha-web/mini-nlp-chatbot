@@ -20,3 +20,13 @@ python
 >>>nltk.download('punkt')
 >>>nltk.download('punkt_tab')
 python chatbot.py
+
+## How It Works
+This chatbot uses basic NLP techniques:
+- Tokenization using NLTK
+- Keyword-based intent detection
+- Rule-based responses
+
+## Project Structure
+- chatbot.py → main chatbot logic  
+- requirements.txt → dependencies  
